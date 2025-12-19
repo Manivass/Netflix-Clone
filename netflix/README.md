@@ -1,4 +1,6 @@
 Features :
+
+
 -Login (Before Authentication)
     - Sign In / Up  Page
     - redirect to Browse
@@ -9,3 +11,6 @@ Features :
         - Name and Description 
         - Movie Suggestions
             - Movie List * N
+-NetFlix GPT
+    - Search Bar
+    - Movie Suggestions
