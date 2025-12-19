@@ -1,5 +1,13 @@
-Features :
 
+#NetFlix GPT
+Completed : 
+- Header 
+- LoginPage
+- routing 
+- Sign In/ Up Form
+- validation
+
+Features :
 
 -Login (Before Authentication)
     - Sign In / Up  Page
