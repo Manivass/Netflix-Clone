@@ -4,15 +4,19 @@ const loginslice = createSlice(
     {
         name : "login",
         initialState : {
-            toggleLogin : false
+            toggleLogin : false ,
+            signOutBrowse :  true  , 
         },
         reducers : {
             toggle : (state) => {
                 state.toggleLogin = !state.toggleLogin ;
+            },
+            signOutButton : (state  ) => {
+                state.signOutBrowse = !state.signOutBrowse 
             }
         }
     }
 )
 
-export const {toggle} = loginslice.actions ;
+export const {toggle , signOutButton } = loginslice.actions ;
 export default loginslice.reducer ; 

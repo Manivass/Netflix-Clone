@@ -6,6 +6,10 @@ Completed :
 - routing 
 - Sign In/ Up Form
 - validation
+- Authentication using Firebase
+    - Sign In / Up / Out
+    - Authentication to Enter
+    - Update user's profile 
 
 Features :
 
